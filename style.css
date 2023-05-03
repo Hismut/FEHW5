@@ -1,0 +1,40 @@
+/* /* ?                                     второе задание */
+/* div {
+  width: 50px;
+  height: 50px;
+  background-color: aqua;
+  color: red;
+  border: 1px solid black;
+  margin: 10px 0 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.active {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+  background-color: red;
+}  */
+/*------------------------------------------------------------------------------------------------------------
+/*?                                третье задание                                          */
+
+/* .icons{
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.icons img{
+  max-width: 200px;
+  border: 1px solid black;
+}
+.preview{
+  max-width: 700px;
+  max-height: 700px;
+  position: fixed;
+  left: 250px;
+} */
